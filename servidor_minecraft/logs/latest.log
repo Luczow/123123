@@ -59,3 +59,8 @@
 [01:23:32] [Server thread/INFO]: Done (49.828s)! For help, type "help"
 [01:23:32] [Server thread/INFO]: Timings Reset
 [01:23:32] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[01:35:52] [User Authenticator #0/INFO]: UUID of player Luckzow1 is dee28ccf-e7f0-3594-ba6b-563738527727
+[01:35:54] [Server thread/INFO]: Luckzow1 joined the game
+[01:35:54] [Server thread/INFO]: Luckzow1[/127.210.43.175:58401] logged in with entity id 23 at ([world]-37.5, 70.0, -80.5)
+[01:36:30] [Server thread/INFO]: Luckzow1 lost connection: Disconnected
+[01:36:30] [Server thread/INFO]: Luckzow1 left the game
